@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Courgette&display=swap");
+
+
+:root {
+    --primary-color:rgb(122, 171, 236);
+    --secondary-color: rgb(0, 110, 255);
+    
+
+
+}
+html, body {
+    font-family: 'courgette';
+    margin:0;
+    background: rgb(141, 27, 36);
+    color: rgb(235, 216, 112);
+
+   
+}
+
+.container header h1{
+    font-size: 55px;
+    color: rgb(235, 216, 112);
+    text-align: center;
+    padding-top: 200px;
+}
+.container .app-logo{
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/redtree.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display:block;
+    padding-top: 25px;
+
+}
+.container .promo-pic {
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/redtree.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display:block;
+    
+     
+}
+.welcome h3{
+    font-size: 2rem;
+    margin-left: 65px;
+    color: rgb(235, 216, 112);
+  
+
+}
+.invite p{
+    font-size: -1rem;
+    text-align: center;
+    color: rgb(235, 216, 112);
+
+}
+.welcome .start {
+    text-align: center;
+}
+
+.login {
+    text-align: center;
+
+}
+.login .redtree{
+    height: 10%;
+    width: 100%;
+   
+}
+.new-profile img{
+    border-radius: 60%;
+}
+
+.user-acc img{
+    border-radius: 60%;
+}
+img{
+    height: 30%;
+    width: 30%;
+
+}
+
+.container .image1 {
+    padding-top: 25px;
+    
+}
+
+.container .image2{
+    padding-top:  25px;
+}
+
+.container .image3{
+    padding-top: 25px;
+  
+}
+.creditcard p{
+    display: inline-block;
+    justify-content: space-between;
+}
+    
+.step3 .img{
+    height: 20%;
+    width:20%;
+    margin-right:  25px;
+}
+
+
+
+
+
+
